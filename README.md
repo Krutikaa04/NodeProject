@@ -1,1 +1,0 @@
-This is a project to understand the concepts of MERN Stack.
